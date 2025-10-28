@@ -1,0 +1,7 @@
+Prompt 5 
+Visual Regression
+You are connected to the Playwright MCP server. 
+1. Navigate to Figma URL: "https://www.figma.com/design/<your_design_url>" 
+2. Navigate to https://www.filmsourcing.com/fake-search-engine-for-film-and-tv 
+3. Capture a screenshot of the fake search engine page elements as 'current.png'. 
+4. Compare it visually with the Figma design baseline and describe all UI differences found.
