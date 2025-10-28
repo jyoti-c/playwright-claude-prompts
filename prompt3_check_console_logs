@@ -1,0 +1,5 @@
+Prompt 3
+Check console logs for Error user
+1. go to https://www.saucedemo.com/ and log in as problem_user with password secret_sauce. immediately check the browser console logs. 
+2. If there are any errors, extract and report the specific error message text. 
+3. For every step in this process take a screenshot
