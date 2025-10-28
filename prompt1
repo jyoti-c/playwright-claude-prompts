@@ -1,0 +1,9 @@
+Prompt 1
+End to End flow of demo website 
+Please perform the following end-to-end checkout flow on this website https://www.saucedemo.com/: 
+1. Log in using the username 'standard_user' and password 'secret_sauce'. 
+2. Add the 'Sauce Labs Backpack' and the 'Sauce Labs Bike Light' to the shopping cart. 
+3. Navigate to the cart, then proceed to the checkout page. 
+4. Fill the checkout form with the following details: First Name: John, Last Name: Doe, Zip/Postal Code: 12345. 
+5. Click 'Continue' to go to the summary page, and then click 'Finish' to complete the order. 
+6. Verify that the success message 'Thank you for your order!' is visible on the screen.
