@@ -1,0 +1,3 @@
+Prompt 8
+Mock API and verify error
+Navigate to https://claude.ai mock the login API to return a 500 server error and verify if the frontend shows the correct error message
