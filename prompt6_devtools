@@ -1,0 +1,5 @@
+Prompt 6
+DevTools
+Navigate to https://claude.ai. 
+Then, use JavaScript to throw a fake error in the console by running console.error('CRITICAL DATABASE FAILURE'); 
+Finally, read the DevTools logs and tell me what the error says.
