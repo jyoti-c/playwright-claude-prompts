@@ -1,0 +1,19 @@
+{
+  "browser": {
+    "launchOptions": {
+      "headless": false
+    },
+    "contextOptions": {
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "storageState": "C:\\Users\\uname\\Desktop\\auth.json"
+    }
+  },
+"capabilities":[
+"devtools",
+"pdf"
+],
+"outputDir": "C:\\Users\\uname\\Desktop"
+}
